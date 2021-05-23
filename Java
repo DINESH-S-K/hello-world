@@ -1,0 +1,14 @@
+class HelloWorld{
+      public static void main(String[] args){
+			       System.out.println("Hello World!!");
+				}
+		}
+
+
+/*
+System is a pre-defined class that Java provides us and it holds some useful methods and variables. 
+out is a static variable within System that represents the output of your program (stdout).
+println is a method of out that can be used to print a line
+
+So no need to import or include anything.
+*/
